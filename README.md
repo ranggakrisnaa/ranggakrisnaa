@@ -4,7 +4,7 @@ I am **Rangga Krisna**, a Software Engineer proficient in JavaScript and well-ve
 
 ### Find me
 
-[![Linkedin: Rangga Krisna](https://img.shields.io/badge/-rangga-krisna-011802194-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rangga-krisna-011802194/)]([https://www.linkedin.com/in/rangga-krisna-011802194/])
+[![Linkedin: Rangga Krisna](https://img.shields.io/badge/rangga%20krisna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rangga-krisna-011802194/)]([https://www.linkedin.com/in/rangga-krisna-011802194/])
 <a href="mailto:infinity.duos@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-infinity.duos-blue?style=flat-square&logo=email"></a>
 [![](https://komarev.com/ghpvc/?username=numbernine-09&color=blue&label=Profile%20Views)](https://github.com/numbernine-09/numbernine-09)
 [![](https://img.shields.io/github/followers/numbernine-09?label=GitHub%20Followers)](https://github.com/numbernine-09)
