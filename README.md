@@ -6,12 +6,12 @@ I am **Rangga Krisna**, a Software Engineer proficient in JavaScript and well-ve
 
 [![Linkedin: Rangga Krisna](https://img.shields.io/badge/Rangga%20Krisna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rangga-krisna-011802194/)]([https://www.linkedin.com/in/rangga-krisna-011802194/])
 <a href="mailto:infinity.duos@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-infinity.duos-blue?style=flat-square&logo=email"></a>
-[![](https://komarev.com/ghpvc/?username=numbernine-09&color=blue&label=Profile%20Views)](https://github.com/numbernine-09/numbernine-09)
-[![](https://img.shields.io/github/followers/numbernine-09?label=GitHub%20Followers)](https://github.com/numbernine-09)
+[![](https://komarev.com/ghpvc/?username=numbernine-09&color=blue&label=Profile%20Views)](https://github.com/ranggakrisnaa/ranggakrisnaa)
+[![](https://img.shields.io/github/followers/ranggakrisnaa?label=GitHub%20Followers)](https://github.com/ranggakrisnaa)
 
 
 ### Statistics
 
 <div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numbernine-09&layout=compact&theme=react&hide=php&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranggakrisnaa&layout=compact&theme=react&hide=php&langs_count=6" />
 </div>
