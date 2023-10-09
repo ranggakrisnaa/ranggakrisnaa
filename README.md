@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I am **Rangga Krisna**, a Software Engineer proficient in JavaScript and well-versed in popular frameworks such as React JS and Express JS. Not just coding. I am passionate about creating clean and efficient code, automating testing code, and implementing modern design principles to deliver intuitive user experiences. I am always eager to learn new technologies and improve my skills
+I am Rangga Krisna, currently learning the JavaScript language and its library or framework development environment such as ReactJS and  and Express JS. Not just coding. I am passionate about creating clean and efficient code, automating testing code, and implementing modern design principles to deliver intuitive user experiences. I am always eager to learn new technologies and improve my skills
 
 ### Find me
 
