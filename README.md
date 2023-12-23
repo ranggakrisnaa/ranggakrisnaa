@@ -9,8 +9,9 @@ I am Rangga Krisna, currently learning the JavaScript language and its library o
 [![](https://komarev.com/ghpvc/?username=numbernine-09&color=blue&label=Profile%20Views)](https://github.com/ranggakrisnaa/ranggakrisnaa)
 [![](https://img.shields.io/github/followers/ranggakrisnaa?label=GitHub%20Followers)](https://github.com/ranggakrisnaa)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranggakrisnaa&show_icons=true&locale=en&layout=compact" alt="ranggakrisnaa" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranggakrisnaa&layout=compact&theme=radical&border_color=141E61)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranggakrisnaa&show_icons=true&locale=en" alt="ranggakrisnaa" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranggakrisnaa&show_icons=true&theme=radical&border_color=141E61)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranggakrisnaa&" alt="ranggakrisnaa" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranggakrisnaa&theme=radical&border=141E61)](https://git.io/streak-stats)
+
