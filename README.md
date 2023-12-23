@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I am Rangga Krisna, currently learning the JavaScript language and its library or framework development environment such as ReactJS and Express JS. and more programming language such as go.
+I am Rangga Krisna, currently learning the JavaScript language and its library or framework development environment such as ReactJS and Express JS. and some programming language such as go.
 
 ### Find me
 
