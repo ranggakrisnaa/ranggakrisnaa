@@ -4,7 +4,7 @@ I am Rangga Krisna, currently learning the JavaScript language and its library o
 
 ### Find me
 
-[![Linkedin: Rangga Krisna]]([https://www.linkedin.com/in/rangga-krisna-011802194/])
+<img src="./images/logo-icons/linkedin.jpg" width="15px;"/> [LinkedIn](https://www.linkedin.com/in/rangga-krisna-011802194/)
 <a href="mailto:infinity.duos@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-infinity.duos-blue?style=flat-square&logo=email"></a>
 [![](https://komarev.com/ghpvc/?username=numbernine-09&color=blue&label=Profile%20Views)](https://github.com/ranggakrisnaa/ranggakrisnaa)
 [![](https://img.shields.io/github/followers/ranggakrisnaa?label=GitHub%20Followers)](https://github.com/ranggakrisnaa)
