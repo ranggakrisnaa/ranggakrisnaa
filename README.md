@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I am Rangga Krisna, currently learning the JavaScript language and its library or framework development environment such as next, nest, and some programming language such as go and TS.
+I am Rangga Krisna, currently learning the TypeScript, Go language and its library or framework development environment such as next, nest, and gin.
 
 ### Find me
 
