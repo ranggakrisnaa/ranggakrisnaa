@@ -12,5 +12,3 @@ I am Rangga Krisna, currently learning the TypeScript, Go language and its libra
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranggakrisnaa&show_icons=true&theme=radical&border_color=141E61)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranggakrisnaa&theme=radical&border=141E61)](https://git.io/streak-stats)
-
