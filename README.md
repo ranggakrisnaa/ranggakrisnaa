@@ -22,8 +22,6 @@
 <a href="https://www.facebook.com/ranggakrisnaa/"><img src="https://img.shields.io/badge/-ranggakrisna-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rangga-krisna"><img src="https://img.shields.io/badge/-rangga-krisna?style=flat&logo=Linkedin&logoColor=white"/></a>
 <br>
-<a href="https://trakteer.id/m_hidayatullah2/link" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="mhidayatullah" /></a>
-</p><br>
 
 <br />
 <a href="https://www.youtube.com/channel/UCtCEqyh342MswIXhsF_y76Q"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
