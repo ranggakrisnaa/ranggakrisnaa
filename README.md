@@ -27,7 +27,7 @@
 <a href="https://www.youtube.com/channel/UCtCEqyh342MswIXhsF_y76Q"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=M-Hidayatullah alt=M-Hidayatullah /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ranggakrisnaa alt=ranggakrisnaa /> </p>
 
 ### Languages and Tools
 
