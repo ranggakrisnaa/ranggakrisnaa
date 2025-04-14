@@ -46,7 +46,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=ffffff)
-![Tailwind](https://img.shields.io/badge/-tailwindcss-0F172A?style=flat&logo=tailwind&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-0F172A?style=flat&logo=tailwindcss&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat&logo=redis&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
