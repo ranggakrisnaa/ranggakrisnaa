@@ -46,17 +46,13 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%234169E1?style=flat&logo=bootstrap&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/-Tailwind-%234169E1?style=flat&logo=tailwind&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat&logo=redis&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
 <a href="https://www.youtube.com/channel/UCtCEqyh342MswIXhsF_y76Q"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
