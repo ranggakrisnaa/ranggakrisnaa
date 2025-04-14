@@ -18,9 +18,9 @@
 
 <p align="center">
 <a href="mailto:infinity.duos@gmail.com"><img src="https://img.shields.io/badge/-infinity.duos@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ranggakriisna/"><img src="https://img.shields.io/badge/-@dayattdev_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/ranggakrisnaa/"><img src="https://img.shields.io/badge/-MHidayatullah-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rangga-krisna"><img src="https://img.shields.io/badge/-dayattdev-1877F2?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/ranggakriisna/"><img src="https://img.shields.io/badge/-@ranggakriisna_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/ranggakrisnaa/"><img src="https://img.shields.io/badge/-ranggakrisna-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rangga-krisna"><img src="https://img.shields.io/badge/-rangga-krisna?style=flat&logo=Linkedin&logoColor=white"/></a>
 <br>
 <a href="https://trakteer.id/m_hidayatullah2/link" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="mhidayatullah" /></a>
 </p><br>
@@ -76,5 +76,3 @@
 ## <img src="https://media2.giphy.com/media/l0Exj6t3iK0Xzv00E/giphy.gif?cid=ecf05e47lzlepi3rx68kh0wwd8u0r36oxlb3cncofw1pc734&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ranggakrisnaa&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-###  <img src="https://media4.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif?cid=ecf05e47kn8j9mfutbunecqfa8a80smg6lw7ppnc459ozuo2&ep=v1_stickers_search&rid=giphy.gif&ct=ts" alt="GIF" width="70"/> Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
