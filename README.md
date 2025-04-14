@@ -20,7 +20,7 @@
 <a href="mailto:infinity.duos@gmail.com"><img src="https://img.shields.io/badge/-infinity.duos@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/ranggakriisna/"><img src="https://img.shields.io/badge/-@ranggakriisna_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/ranggakrisnaa/"><img src="https://img.shields.io/badge/-ranggakrisna-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rangga-krisna"><img src="https://img.shields.io/badge/-rangga-krisna?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rangga-krisna"><img src="https://img.shields.io/badge/-linkedin/rangga-krisna?style=flat&logo=Linkedin&logoColor=white"/></a>
 <br>
 
 <br />
