@@ -40,6 +40,8 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-%23DC382D?style=flat&logo=laravel&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?logoColor=ffffff&style=flat&logo=php)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Nest.js](https://img.shields.io/badge/-NestJs-ea2845??&logo=nestjs)
 ![Go](https://img.shields.io/badge/-Go-%233776AB?style=flat&logo=go&logoColor=ffffff)\
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=ffffff)
@@ -50,8 +52,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Nest.js](https://img.shields.io/badge/-NestJs-ea2845??&logo=nestjs)
 
 <a href="https://www.youtube.com/channel/UCtCEqyh342MswIXhsF_y76Q"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
