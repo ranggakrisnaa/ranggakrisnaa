@@ -4,10 +4,6 @@
 - 🌱 I’m currently learning about go and typescript
 - ⚡ Fun fact: Iam a fast learner
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47fv7ma8fx1j8rhdb4rv0dyzurqvy4o7eknmqreg0j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="300"/>
-</p>
-
  ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
