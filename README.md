@@ -1,8 +1,4 @@
 <h1 align="center">Hello, I'm Rangga Krisna Putra <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<a href="https://www.youtube.com/channel/UCtCEqyh342MswIXhsF_y76Q"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 - 🔭 I’m currently working on several web project
 - 🌱 I’m currently learning about go and typescript
@@ -12,7 +8,6 @@
   <img src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47fv7ma8fx1j8rhdb4rv0dyzurqvy4o7eknmqreg0j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="300"/>
 </p>
 
-<a href="https://www.youtube.com/channel/UCtCEqyh342MswIXhsF_y76Q"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -23,7 +18,6 @@
 <br>
 
 <br />
-<a href="https://www.youtube.com/channel/UCtCEqyh342MswIXhsF_y76Q"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ranggakrisnaa alt=ranggakrisnaa /> </p>
