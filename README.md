@@ -42,8 +42,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
-<a href="https://www.youtube.com/channel/UCtCEqyh342MswIXhsF_y76Q"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 
 ## By the way here are some of my statistics 🚀
 
